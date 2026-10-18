@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   t="1792234209690"
+   class="icon"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   p-id="3320"
+   width="200"
+   height="200"
+   id="svg2"
+   sodipodi:docname="带框方向.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="带框方Right.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     showguides="true"
+     inkscape:lockguides="true"
+     inkscape:zoom="1.607784"
+     inkscape:cx="-29.854756"
+     inkscape:cy="23.324028"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="1609"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="5.12"
+       spacingy="5.12"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="81.92,662.58824"
+       orientation="-1,0"
+       id="guide2"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="942.08,651.3293"
+       orientation="-1,0"
+       id="guide3"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="407.01045,942.08"
+       orientation="0,1"
+       id="guide4"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-48.413414,81.92"
+       orientation="0,1"
+       id="guide5"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <rect
+     style="display:inline;fill:none;fill-opacity:1;stroke:#777777;stroke-width:66.56;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5"
+     width="793.59998"
+     height="793.59998"
+     x="115.2"
+     y="115.2"
+     rx="128"
+     ry="128" />
+  <path
+     style="display:inline;fill:none;stroke:#1c6dd1;stroke-width:66.56;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:606.667;paint-order:stroke fill markers"
+     d="M 390.71814,263.68 633.28318,512.00001 390.71814,760.32"
+     id="path3-8"
+     inkscape:label="path3-right" />
+  <path
+     style="display:none;fill:none;stroke:#1c6dd1;stroke-width:66.56;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:606.667;paint-order:stroke fill markers"
+     d="M 633.28186,263.68 390.71682,512.00001 633.28186,760.32"
+     id="path1"
+     inkscape:label="path3-left" />
+  <path
+     style="display:none;fill:none;stroke:#1c6dd1;stroke-width:66.56;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:606.667;paint-order:stroke fill markers"
+     d="M 263.68,633.28186 512.00001,390.71682 760.32,633.28186"
+     id="path2"
+     inkscape:label="path3-up" />
+  <path
+     style="display:none;fill:none;stroke:#1c6dd1;stroke-width:66.56;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:606.667;paint-order:stroke fill markers"
+     d="M 263.68,390.71814 512.00001,633.28319 760.31999,390.71814"
+     id="path3"
+     inkscape:label="path3-down" />
+  <g
+     id="g5"
+     transform="matrix(0.80663062,0,0,0.8083333,175.02834,98.133367)"
+     style="display:none;stroke-width:1.23842">
+    <path
+       style="display:inline;fill:none;stroke:#1c6dd1;stroke-width:82.4291;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:606.667;paint-order:stroke fill markers"
+       d="m 425.90597,204.79995 307.2,307.20003 -307.2,307.2"
+       id="path4"
+       inkscape:label="path3-right-all" />
+    <path
+       style="display:inline;fill:none;stroke:#1c6dd1;stroke-width:82.4291;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:606.667;paint-order:stroke fill markers"
+       d="m 102.39999,204.79998 307.2,307.20003 -307.2,307.2"
+       id="path5"
+       inkscape:label="path3-right-all2" />
+  </g>
+</svg>

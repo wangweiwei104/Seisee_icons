@@ -1,6 +1,7 @@
 GIMP Palette
 Name: 我的色卡
-Columns: 3
+Columns: 4
 255 255 255  #FFFFFF  白色
 119 119 119  #777777  灰色
 28 109 209   #1C6DD1  蓝色
+239 68 68    #ef4444  红色
